@@ -13,6 +13,9 @@ class App extends Component {
         <p className="App-intro">
           This app is under continuous integration and deployment. Start writing
           some tests!
+          <a href="https://medium.com/@Zaccc123/https-medium-com-zaccc123-continuous-integration-and-deployment-setup-for-react-app-7b5f4bd76cdd">
+            Followed the instructions here
+          </a>
         </p>
       </div>
     );
